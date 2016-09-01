@@ -36,11 +36,6 @@ body {
     width: 947px;
 }
 
-.logo p {
-    display: block;
-    width: 410px;
-}
-
 .header-base .logo p {
     color: rgb(255, 255, 255);
     font-family: "Montserrat";
@@ -52,7 +47,7 @@ body {
     position: absolute;
     text-transform: uppercase;
     top: 31px;
-    width: 160px;
+    width: 410px;
 }
 
 .rectangle {
