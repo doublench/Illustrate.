@@ -47,7 +47,7 @@ body {
     position: absolute;
     text-transform: uppercase;
     top: 31px;
-    width: 410px;
+    width: 160px;
 }
 
 .rectangle {
@@ -72,7 +72,6 @@ body {
     color: rgb(149, 149, 149);
     font: 13px/1.692 "Montserrat";
     height: 13px;
-    left: 928.217px;
     left: 958px;
     position: absolute;
     text-align: right;
